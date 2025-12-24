@@ -8,7 +8,7 @@ Welcome to HHH! We respect your privacy and are committed to protecting your per
 
 We collect the following types of information:
 
-- **Account Information:** When you sign up via Google or Facebook, we receive your name, email address, and profile picture.
+- **Account Information:** When you sign up via Google or Email, we receive your name, email address, and profile picture.
 - **Nickname:** The username you choose within the app.
 - **User-Generated Content:** Jokes you write and publish in the app.
 - **Activity Data:** Likes, dislikes, favorites, and users you follow.
@@ -29,7 +29,7 @@ We use the collected information for the following purposes:
 We do not sell your personal information to third parties. Information may be shared in the following circumstances:
 
 - **Public Content:** Jokes you publish, your nickname, and profile picture are visible to all app users.
-- **Service Providers:** We use Firebase (Google) for data storage and user authentication.
+- **Service Providers:** We use Firebase (Google) for data storage, user authentication, analytics, and crash reporting.
 - **Legal Requirements:** If required by law or court order.
 
 ## 4. Data Security
@@ -52,17 +52,25 @@ To exercise these rights, please contact us at the email address below.
 
 ## 6. Advertising
 
-The app displays advertisements through Google AdMob. Google may collect information to personalize ads. For more information, see Google's Privacy Policy.
+The app displays advertisements through Google AdMob. Google may collect information to personalize ads. For more information, see [Google's Privacy Policy](https://policies.google.com/privacy).
 
-## 7. Children
+## 7. Analytics and Crash Reporting
+
+We use Firebase Analytics to understand how users interact with the app and Firebase Crashlytics to identify and fix technical issues. This data is anonymized and used solely to improve the app experience.
+
+## 8. Push Notifications
+
+We use Firebase Cloud Messaging to send you notifications about prizes, bonuses, and relevant activity. You can disable notifications in your device settings.
+
+## 9. Children
 
 The app is intended for users aged 13 and above. We do not knowingly collect information from children under 13.
 
-## 8. Changes to This Policy
+## 10. Changes to This Policy
 
 We may update this policy from time to time. Material changes will be posted in the app or on our website.
 
-## 9. Contact Us
+## 11. Contact Us
 
 For questions or requests regarding this Privacy Policy, please contact us:
 
