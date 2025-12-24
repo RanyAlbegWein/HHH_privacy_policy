@@ -1,3 +1,7 @@
+---
+title: Delete Your HHH Account
+---
+
 # Delete Your HHH Account
 
 **App Name:** HHH
